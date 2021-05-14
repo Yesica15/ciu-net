@@ -13,6 +13,6 @@ function validacion() {
       alert('[ERROR] La contraseña es demasiado corta. Ingrese al menos 4 caracteres');
       return false;
     }
-    window.location.href = "paginaPrin.html";
+    window.location.href = "/paginaPrin.html";
     return true;
 }
